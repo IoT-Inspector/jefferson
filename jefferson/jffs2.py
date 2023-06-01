@@ -9,7 +9,7 @@ import zlib
 from pathlib import Path
 
 import cstruct
-from lzallright.lzallright import LZOCompressor as lzo
+from lzallright import LZOCompressor as lzo
 
 import jefferson.compression.jffs2_lzma as jffs2_lzma
 import jefferson.compression.rtime as rtime
