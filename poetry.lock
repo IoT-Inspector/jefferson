@@ -27,13 +27,13 @@ files = [
 
 [[package]]
 name = "cstruct"
-version = "5.2"
+version = "5.3"
 description = "C-style structs for Python"
 optional = false
 python-versions = ">=3.6"
 files = [
-    {file = "cstruct-5.2-py2.py3-none-any.whl", hash = "sha256:b2f7f0ce9dc5d3c638d544fb31a5dd0b6c155e75a7963d587bfcf872ee067ab2"},
-    {file = "cstruct-5.2.tar.gz", hash = "sha256:88b2f02791926366dabc422c0caa17091373200f2e92140e6ef8225a93cd0e9c"},
+    {file = "cstruct-5.3-py2.py3-none-any.whl", hash = "sha256:5cdc27f78f725d7cc49e24b1d8c91644ec385deb9a15bdd8b2089f5b9d38ecc9"},
+    {file = "cstruct-5.3.tar.gz", hash = "sha256:dc7f1e7eb1e9b5cd1dbd5052e06f58b00343685c662dbb892c5071fef6bcf4c7"},
 ]
 
 [package.extras]
